@@ -1,0 +1,14 @@
+https://codingthesmartway.com/tailwind-css-for-absolute-beginners/
+
+pip install nodeenv
+nodeenv -p
+npm init -y
+npm install tailwindcss
+
+create CSS file
+
+npx tailwindcss init
+npm install postcss-cli autoprefixer
+npm run build
+npm install -g live-server
+live-server build
